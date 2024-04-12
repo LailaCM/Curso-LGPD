@@ -1,11 +1,11 @@
-## Direito assegurado
+# Direito assegurado
 
 Por tratamento de dados, a lei dispõe a seguinte informação:
 
 
 > _**Toda operação realizada com dados pessoais**, como coleta, produção, recepção, classificação, utilização, acesso, reprodução, transmissão, distribuição, processamento, arquivamento, armazenamento, eliminação, avaliação ou controle da informação, modificação, comunicação, transferência, difusão ou extração._
 
-## Direito dos indivíduos
+# Direito dos indivíduos
 
 <p align="center"> 
 
@@ -13,7 +13,7 @@ Por tratamento de dados, a lei dispõe a seguinte informação:
 
 </p>
 
-### Confirmação da existência de tratamento
+## Confirmação da existência de tratamento
 
 > [!NOTE]
 >**Exigir o conhecimento e a confirmação sobre** a existência de um possível **tratamento dos seus dados**.
@@ -29,7 +29,7 @@ Esse conhecimento refere-se à nossa análise quanto ao uso dos dados que fornec
 
 </p>
 
-### Possibilidade de não fornecer consentimento
+## Possibilidade de não fornecer consentimento
 > [!NOTE]
 > Ao conhecer o tratamento que a organização realizará em seus dados, é muito importante que você o avalie. A lei permite, em alguns casos, que você decida se deseja ou não autorizar determinado tratamento e que você mude de ideia sempre que quiser.
 
@@ -50,7 +50,7 @@ Ter a liberdade de permitir ou não o tratamento dos seus dados, é mais um **di
 
 </p>
 
-### Revogação do consentimento
+## Revogação do consentimento
 
 > [!NOTE]
 >No caso de o tratamento lhe parecer incompatível com o que foi apresentado ou a organização não esclarecer o uso que fará de seus dados, a LGPD lhe permite a **revogação**, que é o arrependimento do consentimento emitido incialmente.
@@ -67,7 +67,7 @@ Nesse caso, o cliente tem o direito de solicitar à concessionária a **revogaç
 
 </p>
 
-### Acesso aos dados
+## Acesso aos dados
  
 > [!NOTE]
 >Após conhecermos e entendermos o tratamento dos dados, podemos solicitar, a qualquer momento, o acesso às nossas informações.
@@ -76,7 +76,7 @@ O benefício desse direito consiste em conhecer **quais dados foram coletados e 
 
 Assim, você saberá e poderá analisar se a organização detém mais informações sobre você do que você forneceu.
 
-### Acesso facilitado às informações
+## Acesso facilitado às informações
 De acordo com o artigo 9º da LGPD, a organização deve promover ao titular o acesso facilitado às informações sobre o tratamento de seus dados contendo os seguintes itens:
 
 > - Finalidade específica do tratamento.
@@ -98,7 +98,7 @@ Ou, ainda, **quando o tratamento de dados pessoais for condição** para o forne
 
 </p>
 
-### Portabilidade de dados
+## Portabilidade de dados
 
 > [!NOTE]
 > O direito à portabilidade assegura ao titular a possibilidade de transferir seus dados pessoais para outra organização, de forma análoga aos casos de portabilidade de financiamento entre bancos.
@@ -114,7 +114,7 @@ Essa alternativa também pode ocorrer para transferências de dados entre escola
 
 </p>
 
-### Anonimização  de dados desnecessários
+## Anonimização  de dados desnecessários
 
  De acordo com o inciso XI do artigo 5º da LGPD, anonimização trata-se de:
 
@@ -122,11 +122,11 @@ Essa alternativa também pode ocorrer para transferências de dados entre escola
 
  
 
- #### Anonimização
+ ### Anonimização
 
  O procedimento de anonimização elimina a possibilidade de identificação do indivíduo a partir do tratamento de seus dados, observadas determinadas condições e circunstâncias previstas na LGPD.
 
- #### Pseudonimização
+ ### Pseudonimização
 
  Tráz o seguinte conceito para pseudonimização:
 
@@ -134,7 +134,7 @@ Essa alternativa também pode ocorrer para transferências de dados entre escola
 
 É como se as informações fossem embaralhadas e armazenadas em locais diferentes e, para serem utilizadas ou serem identificadas, devem ser reunidas e reorganizadas.
  
-### Por que anonimizar ou pseudonimizar?
+## Por que anonimizar ou pseudonimizar?
 Essas técnicas visam **zelar pela privacidade do indivíduo**,evitando discriminação ou que eles possam ser identificados.
 
 <p align="center"> 
@@ -143,7 +143,7 @@ Essas técnicas visam **zelar pela privacidade do indivíduo**,evitando discrimi
 
 </p>
 
-### Eliminação de dados pessoais tratados
+## Eliminação de dados pessoais tratados
 
 > [!NOTE]
 > Caso não deseje mais que seus dados sejam tratados pela organização, você tem o direito de solicitar a eliminação deles de sua base de dados.
@@ -153,7 +153,7 @@ A organização deve manter os dados se tiver de cumprir determinado requisito l
 > [!CAUTION]
 > Amassar e jogar no lixo papel contendo dados pessoais de alunos de uma escola ou de clientes, por exemplo, é totalmente contrário à proteção da privacidade. Esse descarte irresponsável está previsto na LGPD e tipifica violação passível de severas sanções.
 
-### Compartilhamento de dados
+## Compartilhamento de dados
 
 > [!NOTE]
 > Caso a organização tenha que compartilhar seus dados com outras entidades públicas ou privadas, deverá informá-lo sobre este trâmite.
@@ -165,7 +165,7 @@ A transferência de dados entre entidades privadas pode ocorrer no navegador de 
 > [!CAUTION]
 > Fique sempre atento às autorizações que são requeridas em sites e aplicativos.
 
-### Revisão de decisões
+## Revisão de decisões
 
 > [!NOTE]
 > “O titular dos dados tem direito a solicitar a revisão de decisões tomadas unicamente com base em tratamento automatizado de dados pessoais que afetem seus interesses, incluídas as decisões destinadas a definir o seu perfil pessoal, profissional, de consumo e de crédito ou os aspectos de sua personalidade.”
@@ -178,7 +178,7 @@ A LGPD visa **reduzir os riscos associados ao uso crescente de algoritmos e IA p
 
 </p>
 
-## Violação de direitos
+# Violação de direitos
 
 Se algum dos direitos que a Lei assegura for descumprido, ou se você estiver desconfortável com alguma situação, você deve contatar a organização que violou seus direitos. Caso a reclamação não seja solucionada você pode acionar a Autoridade Nacional de Proteção de Dados (ANPD) para a defesa dos seus direitos.
 
