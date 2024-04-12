@@ -144,4 +144,49 @@ Ou, ainda, **quando o tratamento de dados pessoais for condição** para o forne
 
 </p>
 
+### Portabilidade de dados
+
+> [!NOTE]
+> O direito à portabilidade assegura ao titular a possibilidade de transferir seus dados pessoais para outra organização, de forma análoga aos casos de portabilidade de financiamento entre bancos.
+
+Essa alternativa também pode ocorrer para transferências de dados entre escolas, no caso de mudança do aluno de instituição, por exemplo.
+
+> [!CAUTION]
+> A portabilidade dos dados para outro fornecedor de serviço ou produto deve ser realizada mediante requisição expressa, de acordo com a regulamentação da autoridade nacional, observados os segredos comercial e industrial.
+
+<p align="center"> 
+
+<img src="https://getprivacy.com.br/wp-content/uploads/00_Conheca-os-direitos-dos-titulares-de-dados-na-lgpd.jpg" style="width:500px">
+
+</p>
+
+### Anonimização  de dados desnecessários
+
+ De acordo com o inciso XI do artigo 5º da LGPD, anonimização trata-se de:
+
+ > _“utilização de meios técnicos razoáveis e disponíveis no momento do tratamento, por meio dos quais um dado perde a possibilidade de associação, direta ou indireta, a um indivíduo”._
+
+ 
+
+ #### Anonimização
+
+ O procedimento de anonimização elimina a possibilidade de identificação do indivíduo a partir do tratamento de seus dados, observadas determinadas condições e circunstâncias previstas na LGPD.
+
+ #### Pseudonimização
+
+ Tráz o seguinte conceito para pseudonimização:
+
+> _“(...) tratamento por meio do qual um dado perde a possibilidade de associação, direta ou indireta, a um indivíduo, senão pelo uso de informação adicional mantida separadamente pelo controlador em ambiente controlado e seguro”._
+
+É como se as informações fossem embaralhadas e armazenadas em locais diferentes e, para serem utilizadas ou serem identificadas, devem ser reunidas e reorganizadas.
+ 
+### Por que anonimizar ou pseudonimizar?
+Essas técnicas visam **zelar pela privacidade do indivíduo**,evitando discriminação ou que eles possam ser identificados.
+
+<p align="center"> 
+
+<img src="https://www.teresopolis.rj.gov.br/wp-content/uploads/2023/08/lgpd.png" style="width:260px">
+
+</p>
+
 
