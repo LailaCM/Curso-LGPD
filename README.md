@@ -113,8 +113,30 @@ Nesse caso, o cliente tem o direito de solicitar à concessionária a **revogaç
 
 </p>
 
+### Acesso aos dados
+ 
+> [!NOTE]
+>Após conhecermos e entendermos o tratamento dos dados, podemos solicitar, a qualquer momento, o acesso às nossas informações.
 
+O benefício desse direito consiste em conhecer **quais dados foram coletados e estão sendo tratados pela organização**.
 
+Assim, você saberá e poderá analisar se a organização detém mais informações sobre você do que você forneceu.
+
+### Acesso facilitado às informações
+De acordo com o artigo 9º da LGPD, a organização deve promover ao titular o acesso facilitado às informações sobre o tratamento de seus dados contendo os seguintes itens:
+
+> - Finalidade específica do tratamento.
+> - Forma e duração do tratamento.
+> - Informações de contato do controlador de dados.
+> - Informações sobre o uso compartilhado de dados pelo controlador e a finalidade.
+> - Responsabilidades dos agentes que realizarão o tratamento.
+> - Menção explícita aos direitos do titular.
+
+ Nos casos em que o consentimento é requerido, **ele será considerado nulo**, caso as informações fornecidas ao titular tenham conteúdo enganoso ou abusivo ou não tenham sido apresentadas previamente.
+
+Caso haja também mudanças da finalidade para o tratamento de dados pessoais não compatíveis com o consentimento original, a organização deverá informar previamente o titular sobre tais mudanças, podendo o titular revogar o consentimento se discordar das alterações.
+
+Ou, ainda, quando o tratamento de dados pessoais for condição para o fornecimento de produto ou de serviço ou para o exercício de direito da organização, o titular deverá ser informado com destaque sobre esse fato e sobre os meios pelos quais o titular poderá exercer os seus direitos.
 
 
 
