@@ -61,12 +61,26 @@ Por tratamento de dados, a lei dispõe a seguinte informação:
 
 ### Confirmação da existência de tratamento
 
+> [!NOTE]
 >**Exigir o conhecimento e a confirmação sobre** a existência de um possível **tratamento dos seus dados**.
 
 Esse conhecimento refere-se à nossa análise quanto ao uso dos dados que fornecemos antes de decidir comprar um produto, contratar um serviço ou até mesmo navegar por um site. É necessário que o comprador tenha a preocupação com a privacidade dos seus dados, principalmente em relação ao tratamento que será realizado. **Exigir esse conhecimento é o primeiro dos seus direitos assegurados pela Lei**.
 
 > [!CAUTION]
 > A confirmação de existência de tratamento ou o acesso aos dados pessoais deve ser providenciada mediante requisição do titular em formato simplificado e imediatamente ou por meio de declaração clara e completa, fornecida no prazo de até 15 (quinze) dias, contado da data do requerimento do titular, indicando a origem dos dados, a inexistência de registro, os critérios utilizados e a finalidade do tratamento, observados os segredos comercial e industrial.
+
+### Possibilidade de não fornecer consentimento
+> [!NOTE]
+> Ao conhecer o tratamento que a organização realizará em seus dados, é muito importante que você o avalie. A lei permite, em alguns casos, que você decida se deseja ou não autorizar determinado tratamento e que você mude de ideia sempre que quiser.
+
+Considere um diferencial se a organização lhe fornecer explicações sobre o tratamento ou eventuais benefícios que você terá em fornecer suas informações.
+
+No caso de cumprimento de obrigação legal, interesses legítimos de uso dos nossos dados por parte do Governo ou exercício regular de direito da organização, **não poderemos nos opor a esse tratamento**.
+
+Para todos os outros casos, o tratamento das informações pode ser questionado a qualquer momento e **a Lei permite a prerrogativa de nos opormos ao dado tratamento**, caso o consideremos incompatível com nossos interesses pessoais.
+
+> [!CAUTION]
+> A organização deve sempre oferecer a opção do não consentimento. Clareza e transparência no tratamento dos dados pessoais são características que selecionam e fortalecem o posicionamento das boas organizações no mercado.
 
 
 
