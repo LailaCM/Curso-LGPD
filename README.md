@@ -132,12 +132,16 @@ De acordo com o artigo 9º da LGPD, a organização deve promover ao titular o a
 > - Responsabilidades dos agentes que realizarão o tratamento.
 > - Menção explícita aos direitos do titular.
 
- Nos casos em que o consentimento é requerido, **ele será considerado nulo**, caso as informações fornecidas ao titular tenham conteúdo enganoso ou abusivo ou não tenham sido apresentadas previamente.
+ Nos casos em que o consentimento é requerido, **ele será considerado nulo**, caso as informações fornecidas ao titular tenham **conteúdo enganoso ou abusivo ou não tenham sido apresentadas previamente**.
 
-Caso haja também mudanças da finalidade para o tratamento de dados pessoais não compatíveis com o consentimento original, a organização deverá informar previamente o titular sobre tais mudanças, podendo o titular revogar o consentimento se discordar das alterações.
+**Caso haja também mudanças** da finalidade para os dados pessoais não compatíveis com o consentimento original, **a organização deverá informar previamente o titular, podendo o titular revogar o consentimento**.
 
-Ou, ainda, quando o tratamento de dados pessoais for condição para o fornecimento de produto ou de serviço ou para o exercício de direito da organização, o titular deverá ser informado com destaque sobre esse fato e sobre os meios pelos quais o titular poderá exercer os seus direitos.
+Ou, ainda, **quando o tratamento de dados pessoais for condição** para o fornecimento de produto ou de serviço ou para o exercício de direito da organização, **o titular deverá ser informado** com destaque sobre esse fato e sobre os meios pelos quais o titular poderá exercer os seus direitos.
 
+<p align="center"> 
 
+<img src="https://getprivacy.com.br/wp-content/uploads/anonimizacao-de-dados-lgpd-1024x427.png" style="width:500px">
+
+</p>
 
 
