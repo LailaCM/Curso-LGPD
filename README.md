@@ -10,6 +10,7 @@ A Lei Geral de Proteção de Dados Pessoais (LGPD) tem por objetivo **proteger o
      utilizados.
     Exemplos: nome, nome dos pais, RG, CPF, número da carteira de habilitação etc.
 <br>
+
 - Dados sensíveis
     - Dados pessoais sensíveis
     São dados pessoais que podem trazer um perigo maior relacionado a situações de preconceito ou de segurança às pessoas.
@@ -69,8 +70,6 @@ Por tratamento de dados, a lei dispõe a seguinte informação:
 Esse conhecimento refere-se à nossa análise quanto ao uso dos dados que fornecemos antes de decidir comprar um produto, contratar um serviço ou até mesmo navegar por um site. É necessário que o comprador tenha a preocupação com a privacidade dos seus dados, principalmente em relação ao tratamento que será realizado. **Exigir esse conhecimento é o primeiro dos seus direitos assegurados pela Lei**.
 
 > [!CAUTION]
-> A confirmação de existência de tratamento ou o acesso aos dados pessoais deve ser providenciada mediante requisição do titular:
-    - Em formato simplificado, imediatamente;
-    - Por meio de declaração clara e completa, fornecida no prazo de até 15 (quinze) dias, contado da data do requerimento do titular, indicando a origem dos dados, a inexistência de registro, os critérios utilizados e a finalidade do tratamento, observados os segredos comercial e industrial.
+> A confirmação de existência de tratamento ou o acesso aos dados pessoais deve ser providenciada mediante requisição do titular em formato simplificado e imediatament ou por meio de declaração clara e completa, fornecida no prazo de até 15 (quinze) dias, contado da data do requerimento do titular, indicando a origem dos dados, a inexistência de registro, os critérios utilizados e a finalidade do tratamento, observados os segredos comercial e industrial.
 
 
