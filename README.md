@@ -69,6 +69,12 @@ Esse conhecimento refere-se à nossa análise quanto ao uso dos dados que fornec
 > [!CAUTION]
 > A confirmação de existência de tratamento ou o acesso aos dados pessoais deve ser providenciada mediante requisição do titular em formato simplificado e imediatamente ou por meio de declaração clara e completa, fornecida no prazo de até 15 (quinze) dias, contado da data do requerimento do titular, indicando a origem dos dados, a inexistência de registro, os critérios utilizados e a finalidade do tratamento, observados os segredos comercial e industrial.
 
+<p align="center"> 
+
+<img src="https://getprivacy.com.br/wp-content/uploads/Artigo-LGPD-Jean-Carlo-Jacichen-Luz.jpg" style="width:500px">
+
+</p>
+
 ### Possibilidade de não fornecer consentimento
 > [!NOTE]
 > Ao conhecer o tratamento que a organização realizará em seus dados, é muito importante que você o avalie. A lei permite, em alguns casos, que você decida se deseja ou não autorizar determinado tratamento e que você mude de ideia sempre que quiser.
@@ -79,8 +85,35 @@ No caso de cumprimento de obrigação legal, interesses legítimos de uso dos no
 
 Para todos os outros casos, o tratamento das informações pode ser questionado a qualquer momento e **a Lei permite a prerrogativa de nos opormos ao dado tratamento**, caso o consideremos incompatível com nossos interesses pessoais.
 
+Ter a liberdade de permitir ou não o tratamento dos seus dados, é mais um **direito garantido** pela LGPD.
+
 > [!CAUTION]
 > A organização deve sempre oferecer a opção do não consentimento. Clareza e transparência no tratamento dos dados pessoais são características que selecionam e fortalecem o posicionamento das boas organizações no mercado.
+
+<p align="center"> 
+
+<img src="https://getprivacy.com.br/wp-content/uploads/00_LGPD-seguranca-da-info-6-pontos-prioritarios-para-empresas.jpg" style="width:500px">
+
+</p>
+
+### Revogação do consentimento
+
+> [!NOTE]
+>No caso de o tratamento lhe parecer incompatível com o que foi apresentado ou a organização não esclarecer o uso que fará de seus dados, a LGPD lhe permite a **revogação**, que é o arrependimento do consentimento emitido incialmente.
+
+Imagine que um cliente consentiu que uma empresa fizesse o armazenamento de seus dados pessoais, mas não consentisse que ela os compartilhasse com outras organizações. **Caso a empresa faça esse compartilhamento, ela estará violando o acordo** que firmou com o titular das informações.
+
+Nesse caso, o cliente tem o direito de solicitar à concessionária a **revogação do consentimento** para armazenar seus dados.
+
+**Esse arrependimento na revogação** total ou parcial do tratamento **só é possível se a lei permitir**, pois alguns dados fazem parte das estratégias de gestão do Governo, além de poderem ser utilizados por entidades privadas para cumprimento de obrigação legal ou exercício regular de direito, independentemente da vontade do titular.
+
+<p align="center"> 
+
+<img src="https://getprivacy.com.br/wp-content/uploads/lgpd-para-condominios.jpg" style="width:500px">
+
+</p>
+
+
 
 
 
