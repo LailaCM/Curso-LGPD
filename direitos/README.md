@@ -76,7 +76,7 @@ O benefício desse direito consiste em conhecer **quais dados foram coletados e 
 
 Assim, você saberá e poderá analisar se a organização detém mais informações sobre você do que você forneceu.
 
-## Acesso facilitado às informações
+### Acesso facilitado às informações
 De acordo com o artigo 9º da LGPD, a organização deve promover ao titular o acesso facilitado às informações sobre o tratamento de seus dados contendo os seguintes itens:
 
 > - Finalidade específica do tratamento.
