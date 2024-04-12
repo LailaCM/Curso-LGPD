@@ -35,12 +35,7 @@ Situações como a coleta e o compartilhamento de dados sem a ciência e o conse
 
 A privacidade, além de direito assegurado, é também pilar fundamental para o equilíbrio nas relações humanas, de forma que o indivíduo contribua na sua essência para a construção de um mundo melhor, de forma livre e conforme suas convicções.
 
-<sub>
-
->  **Pegadas digitais** é um termo que remete ao histórico de dados e informações que inserimos na internet e nunca mais serão removidos, como, por exemplo, uma fotografia.
-
-</sub>
-
+>  _**Pegadas digitais** é um termo que remete ao histórico de dados e informações que inserimos na internet e nunca mais serão removidos, como, por exemplo, uma fotografia._
 
 
 <p align="center"> 
