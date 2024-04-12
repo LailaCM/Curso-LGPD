@@ -37,7 +37,7 @@ A privacidade, além de direito assegurado, é também pilar fundamental para o 
 
 <sub>
 
->  _**Pegadas digitais** é um termo que remete ao histórico de dados e informações que inserimos na internet e nunca mais serão removidos, como, por exemplo, uma fotografia._
+>  **Pegadas digitais** é um termo que remete ao histórico de dados e informações que inserimos na internet e nunca mais serão removidos, como, por exemplo, uma fotografia.
 
 </sub>
 
