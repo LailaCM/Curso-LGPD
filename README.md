@@ -1,5 +1,3 @@
-# Curso LGPD
-
 # LGPD
 
 A Lei Geral de Proteção de Dados Pessoais (LGPD) tem por objetivo **proteger os dados pessoais** preservando a privacidade das pessoas, ao determinar às organizações diretrizes para o tratamento de dados pessoais dos indivíduos, evitando práticas abusivas e criminosas. Sendo assim, a LGPD **não tem o intuito de engessar o desenvolvimento tecnológico e econômico**, mas sim regulamentar o tratamento dos dados para que sejam utilizados de forma ética e responsável.
